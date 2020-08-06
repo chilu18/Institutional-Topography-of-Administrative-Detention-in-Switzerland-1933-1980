@@ -1,0 +1,344 @@
+﻿ID;Senderkanton;Empfängerkanton;Anstalt;Ort;Arbeitserziehung;Arbeiterkolonien;Zuchthaus, gerichtliche Verwahrung;Verwahrung von Unzurechenfähigen;administrative Versorgungen;Verwahrung von Gewohnheitstrinkern;Erziehung und Nacherziehung Jugendlicher und Minderjähriger (männlich);Erziehung und Nacherziehung Jugendlicher und Minderjähriger (weiblich);Bemerkung
+BE02;Aargau;Bern;Arbeitserziehungsanstalt Lindenhof;Witzwil;1;;;;;;1;;
+FR01;Aargau;Fribourg;Ets. Pénitentiaires de Bellechasse;Sugiez;1;;;;;;;;
+TG01;Aargau;Thurgau;Arbeitserziehungsanstalt Kalchrain;Hüttwilen;1;;;;;;;;
+ZH01;Aargau;Zürich;Kantonale Arbeitserziehungsanstalt;Uitikon;1;;;;;;;;
+BE01;Aargau;Bern;Arbeits- und Strafanstalt Hindelbank;Hindelbank;1;;;;;;;;
+BE04;Aargau;Bern;Kantonale Strafanstalt Thorberg;Krauchthal;;;1;;;;;;
+BE45;Aargau;Bern;Heil- und Pflegeanstalt Münsingen;Münsingen;;;;1;;;;;
+BE46;Aargau;Bern;Heil- und Pflegeanstalt Waldau;Bern;;;;1;;;;;
+LU05;Aargau;Luzern;Heil- und Pflegeanstalt St. Urban;Luzern;;;;1;;;;;
+BE47;Aargau;Bern;Mittelländische Verpflegungsanstalt;Riggisberg;;;;;1;;;;
+BE05;Aargau;Bern;Anstalt Bärau;Langnau;;;;;1;;;;
+ZH03;Aargau;Zürich;Heilstätte Ellikon an der Thur;Ellikon;;;;;;1;;;
+ZH07;Aargau;Zürich;Schweizerische Heilstätte für alkoholkranke Männer Götschihof;Äugsterthal;;;;;;1;;;
+BS02;Aargau;Basel;Basler Jugendheim;Basel;;;;;;;1;;
+FR01;Aargau;Fribourg;Erlenhof;Bellechasse;;;;;;;1;;
+ZH45;Aargau;Zürich;Pestalozziheim Burghof;Dielsdorf;;;;;;;1;;
+ZH05;Aargau;Zürich;Landheim Brüttisellen;Brütisellen;;;;;;;1;;
+ZH23;Aargau;Zürich;Landerziehungsheim Albisbrunn;Hausen am Albis;;;;;;;1;;
+FR07;Aargau;Fribourg;Institut St. Nicolas;Drognens;;;;;;;1;;
+BE64;Aargau;Bern;Webstübli Iseltwald am Brienzersee;Iseltwald;;;;;;;1;;
+LU04;Aargau;Luzern;Erziehungsheim St. Georg;Knutwil;;;;;;;1;;
+BL03;Aargau;Baselland;Landheim Erlenhof Reinach;Reinach;;;;;;;1;;
+BS05;Aargau;Basel;Anstalt zur Hoffnung;Riehen;;;;;;;1;;
+BE09;Aargau;Bern;Erziehungsanstalt Tessenberg;Prêles;;;;;;;1;;
+BE44;Aargau;Bern;Schweizerisches Erziehungsheim Bächtelen;Wabern;;;;;;;1;;
+ZH11;Aargau;Zürich;Schenkung Dapples;Zürich;;;;;;;1;;
+SG03;Aargau;St. Gallen;Vom Guten Hirten;Altstätten;;;;;;;;1;
+BS03;Aargau;Basel;St. Katharinenheim;Basel;;;;;;;;1;
+BS01;Aargau;Basel;St. Verenahof;Basel;;;;;;;;1;
+BE41;Aargau;Bern;Evangelisches Mädchenheim Brunnadern;Bern;;;;;;;;1;
+BE53;Aargau;Bern;Mädchenheim Schloss Köniz;Köniz;;;;;;;;1;
+BL10;Aargau;Baselland;Frauenheim Wolfbrunnen;Lausen;;;;;;;;1;
+FR03;Aargau;Fribourg;Institut Bon Pasteur;Lully;;;;;;;;1;
+NE03;Aargau;Neuenburg;Institut Bellevue;Marin;;;;;;;;1;
+ZH43;Aargau;Zürich;Haushaltungsschule Lindenbaum;Pfäffikon;;;;;;;;1;
+ZH42;Aargau;Zürich;Schweizerisches Katholisches Mädchenheim;Richterswil;;;;;;;;1;
+SG10;Aargau;St. Gallen;Erziehungsheim Waldburg;St. Gallen;;;;;;;;1;
+SG09;Aargau;St. Gallen;Mädchenheim im Wienerberg;St. Gallen;;;;;;;;1;
+FR04;Aargau;Fribourg;Les Joncs Institut pour jeunes filles;Fribourg;;;;;;;;1;
+BE52;Aargau;Bern;Loryheim Münsingen;Münsingen;;;;;;;;1;
+AR04;Aargau;Appenzell Ausserrhoden;Lärchenheim Lutzenberg;Lutzenberg;;;;;;;;1;
+ZH49;Aargau;Zürich;Magdalenenheim Zürich;Zürich;;;;;;;;1;
+SG07;Appenzell Ausserrhoden;St. Gallen;Kantonale Strafanstalt St. Gallen;St. Gallen;;;1;;;;;;
+ZH04;Appenzell Ausserrhoden;Zürich;Kantonale Strafanstalt Regensdorf;Regensdorf;;;1;;;;;;
+TG01;Appenzell Ausserrhoden;Thurgau;Arbeitserziehungsanstalt Kalchrain;Hüttwilen;1;;;;;;;;
+ZH03;Appenzell Ausserrhoden;Zürich;Heilstätte Ellikon an der Thur;Ellikon;;;;;;1;;;
+SG05;Appenzell Ausserrhoden;St. Gallen;Platanenhof St. Gallisches Erziehungsheim;Oberuzwil;;;;;;;1;;
+BE02;Basel Land;Bern;Arbeitserziehungsanstalt Witzwil;Witzwil;1;;;;;;;;
+FR01;Basel Land;Fribourg;Les Ets. Pénitentiaires de Bellechasse;Sugiez;1;;;;;;;;
+BE03;Basel Land;Bern;Arbeitsanstalt St. Johannsen;Le Landeron (NE);1;;;;;;;;
+BE06;Basel Land;Bern;Bernische Heilstätte Nüchtern;Kirchlindach;;;;;;1;;;
+AG05;Basel Land;Aargau;Stiftung Effingerhort;Holderbank;;;;;;1;;;
+BE02;Basel Land;Bern;Trinkerheilstätte Eschenhof;Witzwil;;;;;;1;;;
+ZH03;Basel Land;Zürich;Heilstätte Ellikon an der Thur;Ellikon;;;;;;1;;;
+BE10;Basel Land;Bern;Heilstätte für Alkoholkranke Wysshölzli;Herzogenbuchsee;;;;;;1;;;
+ZH07;Basel Land;Zürich;Schweizerische Heilstätte Götschihof;Äugsterthal;;;;;;1;;;
+BL04;Basel Stadt;Basel Land;Kantonale Strafanstalt Liestal;Liestal;;;1;;;;;;wenn Anstalt Basel überfüllt
+SO02;Basel Stadt;Solothurn;Strafanstalt Oberschöngrün;Solothurn;;;1;;;;;;wenn Anstalt Basel überfüllt
+ZH04;Basel Stadt;Zürich;Kantonale Straf- und Verwahrungsanstalt;Regensdorf;;;1;;;;;;für Austauschgefangene
+AG95;Basel Stadt;Aargau;Kantonale Strafanstalt Lenzburg;Lenzburg;;;1;;;;;;für Austauschgefangene
+BE04;Basel Stadt;Bern;Kantonale Strafanstalt Thorberg;Krauchthal;;;1;;;;;;Männer
+SO01;Basel Stadt;Solothurn;Zwangsarbeitsanstalt Schachen;Deitingen;;;1;;;;;;Männer
+SG07;Basel Stadt;St. Gallen;Kantonale Strafanstalt St. Gallen;St. Gallen;;;1;;;;;;Männer
+BL04;Basel Stadt;Basel Land;Kantonale Strafanstalt Liestal;Liestal;;;1;;;;;;Männer
+BE01;Basel Stadt;Bern;Arbeits- und Strafanstalt Hindelbank;Hindelbank;;;1;;;;;;Frauen
+BE02;Basel Stadt;Bern;Arbeitserziehungsanstalt Witzwil;Witzwil;1;;;;;;;;
+ZH03;Basel Stadt;Zürich;Heilstätte Ellikon an der Thur;Ellikon;;;;;;1;;;
+ZH07;Basel Stadt;Zürich;Schweizerische Heilstätte für alkoholkranke Männer Götschihof;Äugsterthal;;;;;;1;;;
+BE06;Basel Stadt;Bern;Bernische Heilstätte Nüchtern;Kirchlindach;;;;;;1;;;
+BL01;Basel Stadt;Basel Land;Arbeiterkolonie Dietisberg;Läufelfingen;;1;;;;;;;
+TG02;Basel Stadt;Thurgau;Arbeiterkolonie Herdern;Herdern;;1;;;;;;;
+BL03;Basel Stadt;Basel Land;Landheim Erlenhof Reinach;Reinach;;;;;;;1;;
+SZ01;Bern;Schwyz;Kantonale Arbeitsanstalt Kaltbach;Schwyz;;;;;1;;;;Administrative Versorgung nach GEV
+SO01;Bern;Solothurn;Arbeitsanstalt Schachen;Deitingen;;;;;1;;;;
+NE03;Fribourg;Neuenburg;Institut Bellevue;Marin;;;;;;;;1;
+VD07;Fribourg;Waadt;Institut agricole et professionelle de la Suisse romande;Serix;;;;;;;1;;
+;Fribourg;Choix de l'établissement ou de l'home selon le cas;;;;;;;;;;;Sofern Straf- und Massnahmevollzug nicht in Anstalten auf Kantonsgebuet erfolgen können und nicht die ausser Kantonsgebiet liegenden Anstalten in Frage kommen wird von Fall zu Fall entschieden.
+VD04;Genf;Waadt;Etablissements pénitentiaires de la Plaine de l'Orbe;Orbe;1;;1;;1;;;;Männer. Internements judiciaires et administratifs!
+FR01;Genf;Fribourg;Les Ets. Pénitentiaires de Bellechasse;Sugiez;1;;1;;1;;;;Männer. Internements judiciaires et administratifs!
+VD02;Genf;Waadt;La Prairie, Colonie pénitentiaire pour femmes;Rolle;1;;1;;1;;;;Frauen. Internements judiciaires et administratifs.
+BE09;Genf;Bern;Erziehungsheim für Jugendliche Tessenberg;Prêles;;;;;;;1;;
+AG03;Genf;Aargau;Kantonale Erziehungsanstalt Aarburg;Aarburg;;;;;;;1;;
+VD03;Genf;Waadt;Maison d'Education de Vennes;Vennes;;;;;;;1;;
+VD07;Genf;Waadt;Institut agricole et professionelle de la Suisse romande/Institut romand d'éducation Serix;Oron-la-Ville;;;;;;;1;;
+NE03;Genf;Neuenburg;Institut Bellevue;Marin;;;;;;;;1;
+NE02;Genf;Neuenburg;Maison de Pontareuse;Boudry;;;;;;1;;;Männer.
+VD01;Genf;Waadt;Béthesda, maison de la suisse romande pour femmes victimes de la boisson;Lausanne;;;;;;1;;;Frauen.
+BE04;Glarus;Bern;Straf- und Verwahrungsanstalt Thorberg;Krauchthal;;;1;;;;;;
+BE02;Glarus;Bern;Anstalten in Witzwil;Gampelen;;;1;;;;;;
+;Glarus;Anstalten gemäss Vereinbarung über den Vollzug von Strafen und Massnahmen nach StGB und dem Recht der Kantone der Region Ostschweiz;;;;;;;;;;;Andere Freiheitsstrafen: Die betreffende Anstalt wird je nach Fall ausgewählt.
+;Graubünden;Anstalten gemäss Vereinbarung über den Vollzug von Strafen und Massnahmen nach StGB und dem Recht der Kantone der Region Ostschweiz;;;;;;;;;;;Alle übrigen Freiheitsstrafen und Massnahmen werden in ausserkantonalen Anstalten vollzogen, die von Fall zu Fall ausgewählt werden.
+;Luzern;Anstalten gemäss Konkordat über den Vollzug von Strafen und Massnahmen nach StGB und dem Recht der kantone der Region Nordwest-Innerschweiz, Wahl von Anstalt oder Heim je nach Fall und Eignung;;;;;;;;;;;Entscheidung für die zu benützende Anstalt wird von Fall zu Fall getroffen.
+BE02;Neuenburg;Bern;Kantonale Strafanstalt Witzwil;Witzwil;;;1;;;;;;Männer
+FR01;Neuenburg;Fribourg;Les Ets. Pénitentiaires de Bellechasse;Sugiez;;;1;;1;;;;Frauen
+BE02;Neuenburg;Bern;Arbeitserziehungsanstalt Lindenhof;Witzwil;1;;;;;;;;
+BE02;Neuenburg;Bern;Trinkerheilstätte Eschenhof;Gampelen;;;;;;1;;;
+BE01;Neuenburg;Bern;Anstalten in Hindelbank;Hindelbank;;;;;;1;;;
+;Neuenburg;andere;;;;;;;;;;;Für die Inanspruchnahme weiterer Anstalten wird von Fall zu Fall entschieden
+;Nidwalden;andere;Anstalten gemäss Konkordat über den Vollzug von Strafen und Massnahmen nach StGB und dem Recht der Kantone der Region Nordwest-Innerschweiz;;;;;;;;;;
+;Obwalden;andere;Anstalten gemäss Konkordat über den Vollzug von Strafen und Massnahmen und dem Recht der Kantone der Region Nordwest-Innerschweiz;;;;;;;;;;"Die Strafanstalt Obwalden in Sarnen beherbergt die Untersuchungsgefangenen und die gerichtlich Verurteilten aller Kategorien. Die Anstalt dient auch als Verwahrungsanstalt und für administrative Versorgungen. Arbeitsscheue und Flottanten werden von den Gemeinden oft für längere oder kürzere Zeit dort interniert, für die dann die Strafanstalt als ""Zwangsarbeitsanstalt"" zu dienen hat. Die von auswärts heimgeschafften Kantonsbürger werdsen meistens ebenfalls in die Anstalt eingeliefern und bleiben dort solange, bis die avisierten Gemeindebehörden ihre Verfügungen getroffen haben. Jugendliche werden nach Abklärung der Angelegenheit meistens in Erziehungsanstalten, die mit Zuchthaus Bestraften, je nach Umwtänden oft in andere, geeignetere Strafanstalten eingewiesen.
+Für ausserkantonalen Vollzug von Strafen und Massnahmen wird die zu benützende Anstalt je nach Fall ausgewählt. Es kommen meistens Anstalten des Kantons Luzern in Frage."
+BE09;Solothurn;Bern;Jugendheim Prêles;Prêles;;;;;;;1;;
+ZH01;Solothurn;Zürich;Kantonale Arbeiterziehungsanstalt;Uitikon;1;;;;;;1;;
+BE01;Solothurn;Bern;Anstalten in Hindelbank;Gampelen;;;;;;;;1;
+BE06;Solothurn;Bern;Bernische Heilstätte Nüchtern;Kirchlindach;;;;;;1;;;
+AG05;Solothurn;Aargau;Stiftung Effingerhort;Holderbank;;;;;;1;;;
+ZH03;Solothurn;Zürich;Heilstätte Ellikon an der Thur;Ellikon;;;;;;1;;;
+ZH07;Solothurn;Zürich;Schweizerische Heilstätte Götschihof;Äugsterthal;;;;;;1;;;
+SG02;Solothurn;St. Gallen;Pension Mühlhof;Tübach;;;;;;1;;;
+AG03;Solothurn;Aargau;Kantonale Erziehungsanstalt Aarburg;Aarburg;;;;;;;1;;nach StGB Art. 84 und 91
+BL01;Solothurn;Basel Land;Arbeiterkolonie Dietisberg;Läufelfingen;;;;;;;1;;nach StGB Art. 84 und 92
+FR07;Solothurn;Fribourg;Institut St. Nicolas;Drognens;;;;;;;1;;nach StGB Art. 84 und 93
+FR03;Solothurn;Fribourg;Institut Bon Pasteur;Villars-Joncs;;;;;;;1;;nach StGB Art. 84 und 94
+LU04;Solothurn;Luzern;Erziehungsheim St. Georg;Knutwil;;;;;;;1;;nach StGB Art. 84 und 95
+BL03;Solothurn;Basel Land;Landheim Erlenhof;Reinach;;;;;;;1;;nach StGB Art. 84 und 96
+BE09;Solothurn;Bern;Erziehungsheim Tessenberg;Prêles;;;;;;;1;;nach StGB Art. 84 und 97
+SG04;Solothurn;St. Gallen;Erziehungsheim Thurhof;Oberbüren;;;;;;;1;;nach StGB Art. 84 und 98
+BS03;Solothurn;Basel-Stadt;St. Katharinenheim;Basel;;;;;;;;1;nach StGB Art. 84 und 99
+NE03;Solothurn;Neuenburg;Institut Bellevue;Marin;;;;;;;;1;nach StGB Art. 84 und 100
+BE52;Solothurn;Bern;Loryheim Münsingen;Münsingen;;;;;;;;1;nach StGB Art. 84 und 101
+ZH42;Solothurn;Zürich;Mädchenheim Richterswil;Richterswil;;;;;;;;1;nach StGB Art. 84 und 102
+BE02;Solothurn;Bern;Kantonale Strafanstalt Witzwil;Witzwil;;;;;;;1;;nach StGB Art. 93
+SG07;Solothurn;St. Gallen;Kantonale Strafanstalt St. Gallen;St. Gallen;;;;;;;1;;nach StGB Art. 93
+BE02;Schaffhausen;Bern;Kantonale Strafanstalt Witzwil;Witzwil;;;1;;;;;;
+AG95;Schaffhausen;Aargau;Strafanstalt Lenzburg;Lenzburg;;;1;;1;;;;
+AG04;Schaffhausen;Aargau;Arbeiterkolonie Murimoos;Muri;;;;;1;;;;
+TG01;Schaffhausen;Thurgau;Arbeitserziehungsanstalt Kalchrain;Hüttwilen;;;;;1;;;;
+BE02;Schaffhausen;Bern;Anstalten in Witzwil;Witzwil;;;;;1;;;;
+SG01;Schaffhausen;St. Gallen;Kantonale Arbeitserziehungsanstalt Bitzi;Mosnang;;;;;1;;;;
+BE03;Schaffhausen;Bern;Arbeitsanstalt St. Johannsen;Le Landeron;;;;;1;;;;
+ZH03;Schaffhausen;Zürich;Heilstätte Ellikon an der Thur;Ellikon;;;;;;1;;;
+AG07;Schaffhausen;Aargau;Schweizerisches Pestalozziheim Neuhof;Birr;;;;;;1;1;;
+AG05;Schaffhausen;Aargau;Stiftung Effingerhort;Holderbank;;;;;;1;;;
+BE01;Schaffhausen;Bern;Arbeits- und Strafanstalt Hindelbank;Hindelbank;;;;;;1;;;
+ZH05;Schaffhausen;Zürich;Landheim Brüttisellen;Baltenswil;;;;;;;1;;
+ZH42;Schaffhausen;Zürich;Schweizerisches Erziehungsheim für katholische Mädchen;Richterswil;;;;;;;;1;
+SG03;Schaffhausen;St. Gallen;Erziehungsheim Vom Guten Hirten;Altstätten;;;;;;;;1;
+SG09;Schaffhausen;St. Gallen;Mädchenheim im Wienerberg;St. Gallen;;;;;;;;1;
+AR04;Schaffhausen;Appenzell Ausserrhoden;Lächenheim Lutzenberg;Lutzenberg;;;;;;;;1;
+SG05;Schaffhausen;St. Gallen;Platanenhof St. Gallisches Erziehungsheim;Oberuzwil;;;;;;;1;;
+ZH23;Schaffhausen;Zürich;Landerziehungsheim Albisbrunnen;Hausen am Albis;;;;;;;1;;
+ZH01;Schaffhausen;Zürich;Arbeitserziehungsanstalt Uitikon;Uitikon-Waldegg;;;;;;;1;;
+AG03;Schaffhausen;Aargau;Kantonale Erziehungsanstalt Aarburg;Aarburg;;;;;;;1;;
+BE09;Schaffhausen;Bern;Jugendheim Prêles;Prêles;;;;;;;1;;
+AR24;Schaffhausen;Appenzell Ausserrhoden;Töchterheim Sonneberg;Walzenhausen;;;;;;;;1;
+BE41;Schaffhausen;Bern;Mädchenheim Brunnadern;Bern;;;;;;;;1;
+FR01;Schwyz;Fribourg;Les Ets. Pénitentiaires de Bellechasse;Sugiez;;;1;;;;;;
+LU02;Schwyz;Luzern;Straf- und Verwahrungsanstalt Wauwilermoos;Wauwil;;;1;;;;;;
+ZH04;Schwyz;Zürich;Kantonale Straf- und Verwahrungsanstalt;Regensdorf;;;1;;;;;;
+SG07;Schwyz;St. Gallen;Kantonale Strafanstalt St. Gallen;St. Gallen;;;1;;;;;;
+BE02;Schwyz;Bern;Anstalten in Witzwil;Witzwil;1;;1;;;;;;
+BE07;Schwyz;Bern;Arbeiterkolonie Tannenhof;Gampelen;;;;;1;;;;
+SG02;Schwyz;St. Gallen;Trinkerheilstätte Mühlhof;Tübach;;;;;1;;;;
+LU04;Schwyz;Luzern;Erziehungsanstalt Knutwil;Knutwil;;;;;;;1;;
+ZH42;Schwyz;Zürich;Schweizerisches Erziehungsheim für katholische Mädchen;Richterswil;;;;;;;;1;
+;Schwyz;andere;Anstalten gemäss Konkordat über den Vollzug von Strafen und Massnahmen nach StGB und dem Recht der Kantone der Region Nordwest-Innerschweiz;;;;;;;;;;
+;St. Gallen;andere;Anstalten gemäss Vereinbarung über den Vollzug von Strafen und Massnahmen nach StGB und dem Recht der Kantone der Region Ostschweiz;;;;;;;;;;Auswahl von Fall zu Fall
+;Tessin;andere;Choix de l'établissement ou de l'home selon le cas;;;;;;;;;;Wahl von Fall zu Fall
+;Thurgau;andere;Anstalten gemäss Konkordat über den Vollzug von Strafen und Massnahmen nach StGB und dem Recht der Kantone der Region Ostschweiz;;;;;;;;;;"Hinsichtlich der in andern Kantonen benützten Anstalten kennt der Kanton Thurgau keine Beschränkung. Es wird von Fall zu Fall entschieden.
+In denjenigen Fällen, wo ein anderer Kanton auf Grund der Bestimmungen des Strafvollzugskosten-Konkordates mehr bezahlen muss als der Kanton Thurgau, ist es diesem kanton überlassen die betreffende Anstalt zu bestimmen."
+BE02;Uri;Bern;Kantonale Strafanstalt Witzwil;Witzwil;;;1;;;;;;
+BE02;Uri;Bern;Arbeitserziehungsanstalt Lindenhof;Witzwil;1;;;;;;;;
+FR01;Uri;Fribourg;Ets. Pénitentiaires e Bellechasse;Sugiez;1;;;;;;;;
+ZH03;Uri;Zürich;Heilstätte Ellikon an der Thur;Ellikon;;;;;;1;;;
+LU05;Uri;Luzern;Heil- und Pflegeanstalt St. Urban;St. Urban;;;;1;;;;;
+SG15;Uri;St. Gallen;Heil- und Pflegeanstalt St. Pirminsberg;Präfers;;;;1;;;;;
+ZG02;Uri;Zug;St. Franziskusheim Oberwil;Oberwil;;;;1;;;;;
+SG03;Uri;St. Gallen;Erziehungsheim Vom Guten Hirten;Altstätten;;;;;;;;1;
+ZH50;Uri;Zürich;Mädchenheim Riesbach;Zürich;;;;;;;;1;
+AG18;Uri;Aargau;Kinderheim St. Johann;Klingnau;;;;;;;1;1;
+AG03;Uri;Aargau;Kantonale Erziehungsanstalt Aarburg;Aarburg;;;;;;;1;;
+LU04;Uri;Luzern;Erziehungsanstalt St. Georg;Knutwil;;;;;;;1;;
+;Uri;andere;Anstalten gemäss Konkordat über den Vollzug von Strafen und Massnahmen nach StGB und dem Recht der Kantone der Region Nordwest-Innerschweiz;;;;;;;;;;
+;Waadt;andere;Choix de l'établissement ou de l'home selon le cas;;;;;;;;;;Sofern für Straf- und Massnahmevollzug nicht die kantonalen Anstalten in Frage kommen, erfolgt Einweisung in eine ausserkantonale Anstalt, die von Fall zu Fall bestimmt wird. Es handelt sich dabei jeduch nur um Ausnahmen.
+;Wallis;andere;Choix de l'établissement ou de l'home selon le cas;;;;;;;;;;Wahl der Anstalt von Fall zu Fall.
+LU02;Zug;Luzern;Straf- und Verwahrungsanstalt Wauwilermoos;Wauwil;;;1;;;;;;
+LU01;Zug;Luzern;Anstalt Sedelhof;Emmenbrücke;1;;1;;;;;;
+LU04;Zug;Luzern;Erziehungsanstalt St. Georg;Knutwil;;;;;;;1;;
+AG07;Zug;Aargau;Schweizerisches Pestalozziheim Neuhof;Birr;;;;;;;1;;
+AG94;Zug;Aargau;Heil- und Pflegeanstalt Königsfelden;Königsfelden;;;;1;;;;;
+LU05;Zug;Luzern;Heil- und Pflegeanstalt St. Urban;St. Urban;;;;1;;;;;
+TG05;Zug;Thurgau;Heil- und Pflegeanstalt Littenheid;Sirnach;;;;1;;;;;
+;Zug;andere;Anstalten gemäss Konkordat über den Vollzug von Strafen und Massnahmen nach StGB und dem Recht der Kantone der Region Nordwest-Innerschweiz;;;;;;;;;;für alle andern Kategorien erfolgt Wahl der betreffenden Anstalt von Fall zu Fall
+;Zürich;andere;Anstalten gemäss Vereinbarung über den Vollzug von Strafen und Massnahmen nach StGB und dem Recht der Kantone der Region Ostschweiz;;;;;;;;;;Wahl von Fall zu Fall.
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
